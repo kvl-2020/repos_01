@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std:
 int main {
-	cout << "file_1 (aaa) << endl;
+	cout << "file_1 (4) << endl;
 }
